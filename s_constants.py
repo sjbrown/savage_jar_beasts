@@ -1,0 +1,15 @@
+
+S_WHITE = (255,255,255)
+S_BLACK = (0,0,0)
+
+S_LEFT = 0
+S_RIGHT = 1
+S_WEAPON_POS_L_1 = [0,500]
+
+S_TEXTSIZE = 40
+S_TEXTSIZE_SMALL = 40
+S_STORETEXT= """What do you want to buy?"""
+
+S_MODEL = 0
+S_VIEW = 1
+S_CONTROLLER = 2
